@@ -1,2 +1,2 @@
 # Primeira-atividade-Intelig-ncia-Computacional
-Primeira atividade da disciplina Inteligência Computacional
+Desenvolvimento da primeira atividade da disciplina Inteligência Computacional, feita em Python. Esta pedia para que se testasse determinado método de clusterização se utilizando de um banco de dados de moedas que já estavam identificadas entre falsas e verdadeiras, através da comparação do resultado obtido com o método, e o resultado já presente no próprio banco de dados.
